@@ -10,7 +10,7 @@
     </div>
 
     <router-view/>
-    <div class = "footer">Steven Chevrier - <a href= "https://www.github.com/">Github</a>
+    <div class = "footer">Steven Chevrier - <a href= "https://www.github.com/slchev/creative_project_3">Github</a>
     </div>
   </div>
 
